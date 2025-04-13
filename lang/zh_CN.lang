@@ -3778,7 +3778,7 @@ entity.lotr.UmbarCaptain.name=乌姆巴尔队长
 entity.lotr.CorsairCaptain.name=海盗队长
 entity.lotr.NomadChieftain.name=哈拉德游牧民头领
 entity.lotr.GulfWarlord.name=海湾民统领
-entity.lotr.SouthronChampion.name=哈拉德黑蛇勇士
+entity.lotr.SouthronChampion.name=哈拉德冠军
 entity.lotr.HaradSlave.name=哈拉德奴隶
 entity.lotr.CorsairSlaver.name=海盗奴隶主
 entity.lotr.HarnedorBlacksmith.name=哈尔能青铜匠
@@ -3949,7 +3949,7 @@ lotr.unit.RangerNorth_Horse=北方游民先锋
 
 lotr.unit.HighElfWarrior_Horse=林顿骑手
 
-lotr.unit.SouthronChampion_Horse=骑马哈拉德黑蛇勇士
+lotr.unit.SouthronChampion_Horse=骑马哈拉德冠军
 
 lotr.unit.BlueDwarfWarrior_Boar=野猪骑手
 lotr.unit.BlueDwarfAxeThrower_Boar=野猪投斧骑手
@@ -4451,8 +4451,8 @@ lotr.faction.NEAR_HARAD.rank.kinsman=亲族
 lotr.faction.NEAR_HARAD.rank.kinsman.f=哈拉德亲族
 lotr.faction.NEAR_HARAD.rank.warrior=战士
 lotr.faction.NEAR_HARAD.rank.warrior.f=哈拉德战士
-lotr.faction.NEAR_HARAD.rank.champion=守卫者
-lotr.faction.NEAR_HARAD.rank.champion.f=哈拉德守卫者
+lotr.faction.NEAR_HARAD.rank.champion=冠军
+lotr.faction.NEAR_HARAD.rank.champion.f=哈拉德冠军
 lotr.faction.NEAR_HARAD.rank.serpentguard=黑蛇守卫
 lotr.faction.NEAR_HARAD.rank.serpentguard.f=黑蛇守卫
 lotr.faction.NEAR_HARAD.rank.warlord=统领
