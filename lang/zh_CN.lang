@@ -5281,7 +5281,7 @@ chat.lotr.killedByBounty=%s被他的赏金目标%s杀了！
 chat.lotr.pickpocket.watched=对方看着你的时候你没法从他身上偷东西!
 chat.lotr.pickpocket.inCombat=对方在战斗的时候你没法从他身上偷东西!
 chat.lotr.pickpocket.missed=你想从%s身上偷东西，却摸了个空...
-chat.lotr.pickpocket.success=你从%2$s身上偷到了%d个%1$s！
+chat.lotr.pickpocket.success=你从%s身上偷到了%d个%s！
 chat.lotr.pickpocket.noticed=你被%s发现了!
 chat.lotr.pickpocket.otherNoticed=你被附近的%s发现了!
 
@@ -5390,7 +5390,7 @@ commands.lotr.facRelations.noRelation=不存在名为%s的派系间关系
 commands.lotr.facRelations.error=派系关系错误: %s
 commands.lotr.facRelations.reset=重设所有派系关系为默认值
 commands.lotr.pledgeCooldown.usage=/pledgeCooldown <刻> [玩家]
-commands.lotr.pledgeCooldown.set=设%s的宣誓冷却为%d刻 (%s)
+commands.lotr.pledgeCooldown.set=将%s的宣誓冷却设置为%d刻 (%s)
 commands.lotr.conquest.usage=/conquest <set|add|radial> <派系> <数量> [x] [z] 或 /conquest clear [x] [z] 或 /conquest rate [数值]
 commands.lotr.conquest.notEnabled=此世界未启用征服
 commands.lotr.conquest.noFaction=不存在名为%s的派系
