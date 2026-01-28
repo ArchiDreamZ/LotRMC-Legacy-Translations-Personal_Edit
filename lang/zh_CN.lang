@@ -7145,3 +7145,12 @@ lotr.road.JungleMangroveRoad=陶瑞斯路
 lotr.road.JungleDeepRoad=深丛林路
 lotr.road.JungleWestEastRoad=陶瑞斯路
 lotr.road.JungleLakeRoad=旧陶瑞斯路
+
+LOTR=魔戒按键设置
+Menu=菜单
+Fast Travel=快速旅行
+Map Teleport=地图传送(创造模式)
+Alignment Cycle Left=左一个派系结盟值显示
+Alignment Cycle Right=右一个派系结盟值显示
+Alignment Group Prev=前一组地区结盟值显示
+Alignment Group Next=后一组地区结盟值显示
