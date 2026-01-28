@@ -4066,8 +4066,8 @@ lotr.faction.RANGER_NORTH.rank.roquen=洛昆
 lotr.faction.RANGER_NORTH.rank.roquen.f=北方骑士
 lotr.faction.RANGER_NORTH.rank.champion=守护者
 lotr.faction.RANGER_NORTH.rank.champion.f=北方守护者
-lotr.faction.RANGER_NORTH.rank.captain=杜内丹之星
-lotr.faction.RANGER_NORTH.rank.captain.f=杜内丹之星
+lotr.faction.RANGER_NORTH.rank.captain=统帅
+lotr.faction.RANGER_NORTH.rank.captain.f=游民的统帅
 
 lotr.faction.BLUE_MOUNTAINS.name=蓝色山脉
 lotr.faction.BLUE_MOUNTAINS.entity=蓝色山脉的矮人
