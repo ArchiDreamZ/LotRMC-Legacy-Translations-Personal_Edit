@@ -4423,7 +4423,7 @@ lotr.faction.DORWINION.rank.lord_fm.f=多温尼安女领主
 
 lotr.faction.RHUDEL.name=鲁德尔
 lotr.faction.RHUDEL.entity=鲁德尔人
-lotr.faction.RHUDEL.subtitle=鲁恩的金煌鲁德尔勇士
+lotr.faction.RHUDEL.subtitle=鲁恩地区的金煌鲁德尔人
 lotr.faction.RHUDEL.achieveRank=与鲁德尔达到%s点结盟值
 lotr.faction.RHUDEL.achieveRankPledge=宣誓并与鲁德尔达到%s点结盟值
 lotr.faction.RHUDEL.rank.bondsman=奴隶
@@ -4437,7 +4437,7 @@ lotr.faction.RHUDEL.rank.warrior.f=鲁德尔战士
 lotr.faction.RHUDEL.rank.champion=捍卫者
 lotr.faction.RHUDEL.rank.champion.f=鲁德尔捍卫者
 lotr.faction.RHUDEL.rank.golden=金煌战士
-lotr.faction.RHUDEL.rank.golden.f=金煌鲁德尔战士
+lotr.faction.RHUDEL.rank.golden.f=金煌战士
 lotr.faction.RHUDEL.rank.warlord=头目
 lotr.faction.RHUDEL.rank.warlord.f=鲁德尔头目
 lotr.faction.RHUDEL.rank.chieftain=统领
