@@ -2525,13 +2525,13 @@ container.lotr.alloyForge=合金锻炉
 container.lotr.dartTrap=飞镖机关
 container.lotr.millstone=磨盘
 container.lotr.anvil=铁砧
-container.lotr.anvil.cost=耗费%d材料
 container.lotr.anvil.reforge=重新锻造
 container.lotr.anvil.reforgeCost=重新锻造耗费:%d
+container.lotr.anvil.cost=材料耗费：%d
 container.lotr.anvil.engraveOwner=铭刻所属
-container.lotr.anvil.engraveOwnerCost=铭刻所属耗费:%d
+container.lotr.anvil.engraveOwnerCost=铭刻所属耗费：%d
 container.lotr.smith=铁匠锻造
-container.lotr.smith.cost=耗费%d银币
+container.lotr.smith.cost=银币耗费：%d
 container.lotr.bookshelf=书架
 
 container.lotr.beacon.lit=%s的烽火点燃了！
