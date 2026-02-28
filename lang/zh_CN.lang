@@ -2329,7 +2329,7 @@ item.lotr.generic.previousOwner=曾经属于: %s
 item.lotr.generic.previousOwnerList=曾经属于:
 item.lotr.generic.stolen=§c§l从%s那里偷来了§r§c!
 item.lotr.generic.stolenWanted=§c%s想要这个
-item.lotr.generic.squadron=%s团队
+item.lotr.generic.squadron=%s中队
 
 potion.lotr.drinkPoison=有毒饮料
 
@@ -2548,7 +2548,7 @@ container.lotr.trade.sellPrice=×%d
 container.lotr.trade.locked=……
 container.lotr.unitTrade.requiresAlignment=要求+%d点结盟值
 container.lotr.unitTrade.pledge=需要……
-container.lotr.unitTrade.squadronBox=编入团队的名称:
+container.lotr.unitTrade.squadronBox=编入中队：
 container.lotr.coinExchange=兑换银币
 
 lotr.miniquest.collect=收集%d个%s
@@ -2617,7 +2617,7 @@ lotr.date.shire.day.monday=月亮日
 lotr.date.shire.day.trewsday=白树日
 lotr.date.shire.day.hevensday=穹苍日
 lotr.date.shire.day.mersday=大海日
-lotr.date.shire.day.highday=诸神日
+lotr.date.shire.day.highday=众神日
 
 lotr.date.shire.month.yule2=尤尔二日
 lotr.date.shire.month.afteryule=一月
@@ -3300,7 +3300,7 @@ lotr.gui.hornSelect.summon=召唤单位
 lotr.gui.daleCracker=河谷邦鞭炮
 lotr.gui.daleCracker.seal=密封鞭炮
 
-lotr.gui.squadronItem.squadron=分派雇佣单位所属团队
+lotr.gui.squadronItem.squadron=指定为该中队：
 lotr.gui.squadronItem.none=无
 lotr.gui.squadronItem.done=完成
 
@@ -3320,7 +3320,7 @@ lotr.gui.npc.dismiss=解除雇佣单位
 lotr.gui.warrior.overview=总览
 lotr.gui.warrior.options=命令
 lotr.gui.warrior.openInv=更换装备
-lotr.gui.warrior.squadron=团队
+lotr.gui.warrior.squadron=中队
 lotr.gui.warrior.teleport=自动传送
 lotr.gui.warrior.guardMode=护卫模式
 lotr.gui.warrior.guardRange=护卫范围
@@ -3333,7 +3333,7 @@ lotr.gui.farmer.mode=耕种模式
 lotr.gui.farmer.range=耕种范围
 lotr.gui.farmer.openInv=开启物品栏
 lotr.gui.farmer.oneSeed=当农民身上只剩一粒种子时不会再种植 —— 因为他们得知道自己要种什么
-lotr.gui.farmer.squadron=所属团队
+lotr.gui.farmer.squadron=中队
 
 lotr.gui.dismiss.dismiss=解除雇佣
 lotr.gui.dismiss.cancel=取消
