@@ -5383,7 +5383,7 @@ commands.lotr.spawnDamping.usage=/spawnDamping <set> <类型> <数量> 或 /spaw
 commands.lotr.spawnDamping.set=对%s类生物设置生成衰减到%d
 commands.lotr.spawnDamping.noType=%s类生物不存在
 commands.lotr.spawnDamping.reset=重设所有生成衰减设置
-commands.lotr.spawnDamping.calc=世界%d (%s): %s类生物的生成衰减是%d。%d玩家在世界中。生成上限 (每%d区块) 减少至%d(从基本的%d)。生成上限 x 玩家
+commands.lotr.spawnDamping.calc=世界%d (%s): %s类生物的生成衰减是%d。%d玩家在世界中。生成上限 (每%d区块) 减少至%d (基础值为%d)。生成上限×玩家=%d。
 commands.lotr.facRelations.usage=/facRelations set <派系1> <派系2> <关系> 或 /facRelations reset
 commands.lotr.facRelations.set=更新了%s和%s之间的关系为%s
 commands.lotr.facRelations.noRelation=不存在名为%s的派系间关系
