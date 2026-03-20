@@ -4377,7 +4377,7 @@ lotr.faction.GONDOR.rank.lord_fm.f=刚铎女领主
 
 lotr.faction.MORDOR.name=魔多
 lotr.faction.MORDOR.entity=魔多的怪物
-lotr.faction.MORDOR.subtitle=黑暗之地的势力
+lotr.faction.MORDOR.subtitle=黑暗之地的军团
 lotr.faction.MORDOR.achieveRank=与魔多达到%s点结盟值
 lotr.faction.MORDOR.achieveRankPledge=宣誓并与魔多达到%s点结盟值
 lotr.faction.MORDOR.rank.thrall=奴仆
