@@ -5210,7 +5210,7 @@ lotr.structure.NomadBazaarTent.name=哈拉德游牧民集市
 
 lotr.structure.GulfWarCamp.name=海湾民战营
 lotr.structure.GulfHouse.name=海湾民房屋
-lotr.structure.GulfAltar.name=海湾民祭坛
+lotr.structure.GulfAltar.name=海湾民献祭祭坛
 lotr.structure.GulfSmithy.name=海湾民铁匠铺
 lotr.structure.GulfBazaar.name=海湾民集市
 lotr.structure.GulfTotem.name=海湾民图腾
@@ -5237,7 +5237,7 @@ lotr.structure.TauredainWatchtower.name=陶瑞斯瞭望塔
 lotr.structure.TauredainHouseLarge.name=陶瑞斯宅邸
 lotr.structure.TauredainChieftainPyramid.name=陶瑞斯头领神庙
 lotr.structure.TauredainVillageTree.name=陶瑞斯村庄树
-lotr.structure.TauredainVillageFarm.name=陶瑞斯村庄农场
+lotr.structure.TauredainVillageFarm.name=陶瑞斯农场
 lotr.structure.TauredainVillage.name=陶瑞斯村庄
 lotr.structure.TauredainSmithy.name=陶瑞斯铁匠铺
 
