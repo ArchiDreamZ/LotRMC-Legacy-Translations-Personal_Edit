@@ -2694,7 +2694,7 @@ lotr.gui.map.widget.hideSWP=隐藏共享路径点
 lotr.gui.map.widget.unhideSWP=显示共享路径点
 
 lotr.gui.map.customWaypoint.allUsed.1=你用完了所有自定义路径点 (共%d个)
-lotr.gui.map.customWaypoint.allUsed.2=如果你想要创建更多自定义路径点，就获得更多中洲成就，或删掉已有路径点
+lotr.gui.map.customWaypoint.allUsed.2=如果你想要创建更多自定义路径点，就需要获得更多中洲成就，或删掉已有路径点
 lotr.gui.map.customWaypoint.create.1=你已经创建了%d / %d个自定义路径点
 lotr.gui.map.customWaypoint.create.2=获得更多中洲成就能解锁更多自定义路径点
 lotr.gui.map.customWaypoint.create.button=创建新路径点
@@ -3108,7 +3108,7 @@ lotr.title.entSlayer=瑁珑恩特杀手
 
 lotr.title.alcoholic=酒鬼
 lotr.title.explore50Biomes=世界行走者
-lotr.title.fourLeafClover=幸运
+lotr.title.fourLeafClover=幸运儿
 lotr.title.enterUtumno=乌图姆诺
 lotr.title.enterUtumnoFire=乌顿之炎
 lotr.title.visitOcean=水手
