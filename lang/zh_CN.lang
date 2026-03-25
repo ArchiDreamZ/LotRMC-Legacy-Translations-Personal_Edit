@@ -2331,7 +2331,7 @@ item.lotr.generic.stolen=§c§l从%s那里偷来了§r§c!
 item.lotr.generic.stolenWanted=§c%s想要这个
 item.lotr.generic.squadron=%s中队
 
-potion.lotr.drinkPoison=有毒饮料
+potion.lotr.drinkPoison=饮料中毒
 
 death.attack.lotr.frost=%s不敌寒风
 death.attack.lotr.poisonDrink=%s错饮而死
