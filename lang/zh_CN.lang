@@ -5408,9 +5408,9 @@ commands.lotr.opHideMap.notOp=只有OP可以使用此命令
 commands.lotr.opHideMap.notCreative=你只可以在创造模式使用此命令
 commands.lotr.opHideMap.hiding=你的地图位置现在对除了OP外所有人隐藏，直到你退出创造模式
 commands.lotr.opHideMap.unhide=/opHideMap:你的位置不再对非OP隐藏
-commands.lotr.invasion.usage=/invasion <类型> [x] [y] [z] [范围]
+commands.lotr.invasion.usage=/invasion <类型> [x] [y] [z] [规模]
 commands.lotr.invasion.noType=没有名为%s的入侵类型
-commands.lotr.invasion.start=开始%s入侵(范围%d)，位置在(%d, %d, %d)
+commands.lotr.invasion.start=开始%s入侵(规模%d)，位置在(%d, %d, %d)
 
 lotr.alignment.decimal_separator_char=.
 lotr.alignment.group_separator_char=，
