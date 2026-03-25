@@ -2538,7 +2538,7 @@ container.lotr.beacon.lit=%s的烽火点燃了！
 container.lotr.beacon.unlit=%s的烽火熄灭了
 container.lotr.beacon.nameFellowship=分派远征队:
 container.lotr.beacon.nameBeacon=命名烽火:
-container.lotr.beacon.namePrefix=烽火
+container.lotr.beacon.namePrefix=...的烽火
 container.lotr.beacon.done=完成
 
 container.lotr.trade.buy=向玩家出售
