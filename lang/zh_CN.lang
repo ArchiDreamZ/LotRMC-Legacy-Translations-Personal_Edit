@@ -2132,7 +2132,7 @@ item.lotr:bodyLebenninGambeson.name=莱本宁软甲
 item.lotr:spearStone.name=石矛
 item.lotr:marzipan.name=杏仁糖
 item.lotr:marzipanChocolate.name=巧克力杏仁糖
-item.lotr:daleCracker.name=河谷邦鞭炮
+item.lotr:daleCracker.name=河谷邦拉炮
 item.lotr:partyHat.name=宴会帽
 item.lotr:helmetLamedon.name=拉梅顿头盔
 item.lotr:bodyLamedon.name=拉梅顿胸甲
@@ -3297,8 +3297,8 @@ lotr.gui.hornSelect.title=选择命令号角
 lotr.gui.hornSelect.haltReady=立定/就绪单位
 lotr.gui.hornSelect.summon=召唤单位
 
-lotr.gui.daleCracker=河谷邦鞭炮
-lotr.gui.daleCracker.seal=密封鞭炮
+lotr.gui.daleCracker=河谷邦拉炮
+lotr.gui.daleCracker.seal=密封拉炮
 
 lotr.gui.squadronItem.squadron=指定为该中队：
 lotr.gui.squadronItem.none=无
