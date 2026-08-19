@@ -5889,7 +5889,7 @@ lotr.achievement.enterWoodlandRealm.title=精灵王之宾
 lotr.achievement.enterWoodlandRealm.desc=进入黑森林王国
 lotr.achievement.wearFullWoodElven.title=守卫队长
 lotr.achievement.wearFullWoodElven.desc=装备整套黑森林精灵盔甲
-lotr.achievement.enterDolGuldur.title=巫术之山
+lotr.achievement.enterDolGuldur.title=妖术山丘
 lotr.achievement.enterDolGuldur.desc=进入多古尔都
 lotr.achievement.killDolGuldurOrc.title=多古尔都奥克杀手
 lotr.achievement.killDolGuldurOrc.desc=杀死多古尔都奥克
@@ -6698,7 +6698,7 @@ lotr.waypoint.THRANDUIL_HALLS=瑟兰杜伊的厅堂
 lotr.waypoint.THRANDUIL_HALLS.info=精灵国王瑟兰杜伊的地下宫殿，据说此处是他们为了纪念昔日明霓国斯的辉煌而建。
 
 lotr.waypoint.DOL_GULDUR=多古尔都
-lotr.waypoint.DOL_GULDUR.info=“妖术之丘”，死灵法师向东逃去之前的要塞巢穴，而今已是鲁恩的那兹古尔可哈穆尔及其爪牙的住所。
+lotr.waypoint.DOL_GULDUR.info=“妖术山丘”，死灵法师向东逃去之前的要塞巢穴，而今已是鲁恩的那兹古尔可哈穆尔及其爪牙的住所。
 lotr.waypoint.MIRKWOOD_MOUNTAINS=黑森林山脉
 lotr.waypoint.MIRKWOOD_MOUNTAINS.info=又称埃敏-努-浮阴，一列从黑森林的迷雾中升起的黑暗山丘，挡住了死灵法师的腐化。
 lotr.waypoint.RHOSGOBEL=罗斯戈贝尔
