@@ -3326,7 +3326,7 @@ lotr.gui.warrior.guardMode=护卫模式
 lotr.gui.warrior.guardRange=护卫范围
 lotr.gui.warrior.health=生命值:%d/%d
 lotr.gui.warrior.kills=已杀死生物:%d
-lotr.gui.warrior.level=目前等级:%d
+lotr.gui.warrior.level=战斗等级:%d
 lotr.gui.warrior.xp=总经验值:%d
 
 lotr.gui.farmer.mode=耕种模式
@@ -3424,7 +3424,7 @@ lotr.hiredNPC.death=你的雇佣单位%s
 lotr.hiredNPC.desert=你的雇佣单位%s抛弃了你
 lotr.hiredNPC.dismiss=你的雇佣单位%s被解除职务
 lotr.hiredNPC.trollStone=你的雇佣单位%s石化了
-lotr.hiredNPC.levelUp=你的雇佣单位%s达到了等级%d
+lotr.hiredNPC.levelUp=你的雇佣单位%s达到了战斗等级%d
 lotr.hiredNPC.commandReq=命令需要:
 lotr.hiredNPC.commandReq.align=%s%s结盟值
 lotr.hiredNPC.commandReq.pledge.FACTION=向%s宣誓
